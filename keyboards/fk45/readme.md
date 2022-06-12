@@ -1,20 +1,17 @@
-# POM Keyboards - TNLN95
+# FK45
+### by Hoang Nguyen Minh
 
-![TNLN95 Layout Image](https://i.imgur.com/nIefJ0m.png)
+![First Proto Image](https://user-images.githubusercontent.com/33872783/173240870-943e66c2-802f-4a51-b406-7a17b64307b9.jpg)
 
 ### Default TNLN95 Layout
 
-This is the default layout that comes flashed on every TNLN95.
-
 * Keyboard Maintainer: [Hoang Nguyen Minh](https://github.com/NMHoang05/)
-* Hardware Supported: TNLN95
-* Hardware Availability: (soon!)
+* Hardware Supported: TN45 PCB
+* Hardware Availability: Only one Proto made so far 
 
 Make example for this keyboard (after setting up your build environment):
 
-    make pom_keyboards/tnln95:default
+    make fk45:default
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
----
-Alternate layout will be updated soon!
